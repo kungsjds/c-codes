@@ -1,1 +1,0 @@
-####Code notes about: C =)
