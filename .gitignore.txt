@@ -1,2 +1,5 @@
 *.vcxproj
+.vcxproj.filters
+.vcxproj.user
+teste.txt
 x64/
