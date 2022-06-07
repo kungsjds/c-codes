@@ -1,0 +1,6 @@
+﻿  connectives.c
+  main.c
+C:\dsn\fontes\c-studies\CLearning\CLearning\main.c(10,2): warning C4013: 'twoConnectivesOnIf' indefinido; assumindo extern retornando int
+C:\dsn\fontes\c-studies\CLearning\CLearning\main.c(12,2): warning C4013: 'calculatorSwitchCase' indefinido; assumindo extern retornando int
+  Gerando Código...
+  CLearning.vcxproj -> C:\dsn\fontes\c-studies\CLearning\x64\Debug\CLearning.exe
