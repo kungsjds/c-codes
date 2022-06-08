@@ -9,6 +9,14 @@ int main() {
 
 	//twoConnectivesOnIf();
 
-	calculatorSwitchCase();
+	//calculatorSwitchCase();
+
+	//randomNumberGenerator();
+
+	//threeRandomDice();
+
+	//repeatWhile();
+
+	evenNumWhile();
 
 }
