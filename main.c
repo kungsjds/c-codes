@@ -17,6 +17,16 @@ int main() {
 
 	//repeatWhile();
 
-	evenNumWhile();
+	//evenNumWhile();
+
+	//sumWhileInterval();
+
+	//forSum();
+
+	//multTable();
+
+	//undefinedFor();
+
+	showConstants();
 
 }
