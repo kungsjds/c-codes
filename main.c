@@ -27,6 +27,12 @@ int main() {
 
 	//undefinedFor();
 
-	showConstants();
+	//showConstants();
+
+	//arrays();
+
+	showStrings();
+
+	return 0;
 
 }
