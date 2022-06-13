@@ -31,7 +31,11 @@ int main() {
 
 	//arrays();
 
-	showStrings();
+	//showStrings();
+
+	//matrix2D();
+
+	matrix3D();
 
 	return 0;
 
