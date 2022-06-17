@@ -35,7 +35,9 @@ int main() {
 
 	//matrix2D();
 
-	matrix3D();
+	//matrix3D();
+
+	handleStructs();
 
 	return 0;
 
